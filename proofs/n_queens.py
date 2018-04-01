@@ -1,7 +1,7 @@
 import itertools as it
 
 '''
-This is my solution for the n queens problem on Coursera course for 'What is a proof?'
+These are the solutions for the n queens problem on Coursera course for 'What is a Proof?'
 '''
 
 
